@@ -17,5 +17,9 @@ var myVar = "Hello, world!";
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
-
-テスト
+- [ ] 自動タスクリマインダー
+- [ ] タスク作成
+- [ ] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
